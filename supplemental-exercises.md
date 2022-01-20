@@ -18,7 +18,7 @@
 		2 1
 1. Write an interactive Python calculator program.  The program should allow the user to type a mathematical expression, and then print the value of the expression.  The program should continue to accept user input until the user types in `quit`.  Once you have the basic program working, try to improve it so that it doesn’t break when a user enters an invalid expression.
 1. Write a function to find the sum of the squares of the first n positive integers.  The function should take the number n as an argument and return the sum.
-1. Python has an operator called `in` that determines if a character or a substring is contained in a larger string.  It returns True if the character or substring is in the larger string, otherwise, it returns False.  Write a function called in_string that implements the same functionality.
+1. Python has an operator called `in` that determines if a character or a substring is contained in a larger string.  It returns True if the character or substring is in the larger string, otherwise, it returns False.  Write a function called `in_string` that implements the same functionality.
 1. Write a function that prompts a user to enter their first and last names.  The function should then print a computer username consisting of the first letter of their first name and the first seven letters of their last name.
 1. Rewrite the previous function to read the first and last names from a file and create usernames for everyone in the file.
 1. Write a function that accepts a list of numerical grades formatted as a percentage as an argument.  The function should return (not print) a list of letter grades equivalents.  Use the grading scale specified in the syllabus for this course.
