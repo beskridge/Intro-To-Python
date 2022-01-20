@@ -5,7 +5,7 @@ This content is based on the book _Think Python 2nd Edition_ by Allen B. Downey.
 
 ## Study Sessions on Youtube
 
-Study sessions using this content can be found on the Cyber Insecurity [(website link)](https://cyberinsecurity.tv/) YouTube channel [(link)](https://www.youtube.com/c/CyberInsecurity) YouTube channel.  Study sessions are live streamed on Tuesday evenings at 8:00PM Eastern starting January 25, 2022.
+Study sessions using this content can be found on the Cyber Insecurity ([website link](https://cyberinsecurity.tv/)) YouTube channel ([link](https://www.youtube.com/c/CyberInsecurity)) YouTube channel.  Study sessions are live streamed on Tuesday evenings at 8:00PM Eastern starting January 25, 2022.
 
 Each stream will include an algorithm development exercise.  Follow me on [Twitter](https://twitter.com/brenteskridge) to see the exercise prompt before the stream starts.
 
@@ -48,7 +48,7 @@ I have created Jupyter Notebooks with my lecture/discussion notes organized by c
   https://github.com/beskridge/Intro-To-Python/blob/main/notebooks/ch12-tuples.ipynb
 
 
-## Supplemntal resources
+## Supplemental resources
 
 Although this book presents the material very well, learners often benefit from seeing the same topics discussed from a different perspective.  To that end, I've compiled a curated list of supplementary resources that may prove to be beneficial.  These resources can be found here:
 
